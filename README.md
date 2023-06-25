@@ -1,6 +1,6 @@
 # Optimizers
 Optimizers, Optimization algorithms such as sparrow, whale, sine and cosine, northern goshawk, genetic, particle swarm, gray wolf, dragonfly, locust, multiverse, etc.
-
+麻雀，鲸鱼，正余弦，北方苍鹰，遗传，粒子群，灰狼，蜻蜓，蝗虫，多元宇宙等优化算法.
 <!--<p align="center">
   
 ![image](https://github.com/VG-TechCenter/Optimizers/blob/main/Results/1.bmp)<br>
